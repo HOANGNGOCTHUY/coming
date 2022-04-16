@@ -518,7 +518,7 @@ input:focus{
      width: 50px;
      background: white;
      position: absolute;
-     bottom: -40px;
+     bottom: -45px;
      /* left: 0; */
 }
 .slider-logo img{
@@ -539,10 +539,10 @@ input:focus{
 }
 .slider-desc{
      font-weight: 300;
-     font-size: 16px;
+     font-size: 14px;
      line-height: 156%;
      letter-spacing: 0.025em;
-     margin-bottom: 39px;
+     margin-bottom: 50px;
 }
 
 .slider-clock{
@@ -730,7 +730,7 @@ input:focus{
      margin-bottom: 31px;
 }
 .contact-website{
-     margin-right: 60px;
+     margin-right: 55px;
 }
 .contact-tile{
      font-weight: 400;
@@ -813,13 +813,13 @@ input:focus{
      font-weight: 300;
      font-size: 16px;
      line-height: 30px;
-     letter-spacing: 0.01em;
+     letter-spacing: 0.05em;
 }
 .btn-click{
      text-decoration: none;
      background: #D72046;
      border-radius: 30px;
-     padding: 10px 12px;
+     padding: 7px 12px;
      color: #FFFFFF;
      font-weight: 400;
      font-size: 12px;
@@ -858,8 +858,8 @@ input:focus{
  .container-left .panivation .btn.active{
      width: 10px;
      height: 10px;
-     -webkit-box-shadow: 0px 0px 10px 20px #C4C4C4; 
-     box-shadow: 0px 0px 10px 5px #C4C4C4;
+     -webkit-box-shadow: 0px 0px 0px 5px rgba(196,196,196,0.6); 
+     box-shadow: 0px 0px 0px 5px rgba(196,196,196,0.6);
    
 }
 .container-left .panivation .btn:hover{
@@ -886,15 +886,15 @@ input:focus{
 
 .slider-text{
      font-weight: 500;
-     font-size: 16px;
-     line-height: 188%;
+     font-size: 14px;
+     line-height: 143%;
      letter-spacing: 0.05em;
      text-transform: uppercase;
 }
 
-.slider-desc{
+/* .slider-desc{
      font-weight: 400;
      font-size: 14px;
      line-height: 16px;
      margin-bottom: 50px;
-}
+} */
