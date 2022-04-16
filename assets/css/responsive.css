@@ -447,6 +447,191 @@
           bottom: -15px;
           width: 30px;
      }
+      .slider-logo{
+
+     }
+
+
+}
+/* Nexus */
+@media only screen and (max-width: 600px){
+     .slider-logo{
+
+     }
+     .slider-heading{
+          font-size: 16px;
+          line-height: 18px;
+          margin-bottom: 15px;
+     }
+  
+     .slider-desc{
+          font-size: 12px;
+          line-height: 16px;
+          margin-bottom: 30px;
+     }
+     .slider-title{
+          font-size: 18px;
+          line-height: 25px;
+
+     }
+     .slider-text {
+          font-size: 12px;
+          line-height: 16px;
+     }
+     .aboutus-text{
+          margin-bottom: 20px;
+     }
+     .aboutus-item{
+          width: 40px;
+          height: 40px;
+     }
+     .aboutus-item span{
+          font-size: 14px;
+          line-height: 16px;
+          margin-top: 20px;
+     }
+     .form-main{
+          margin-top: 50px;
+          max-width: 100%;
+
+     }
+     .form-main label{
+          padding: 11px 16px;
+          font-size: 12px;
+     }
+     .form-main .form-control{
+          height: 40px;
+          padding: 14px 70px;
+          font-size: 12px;
+     }
+     .form-main .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+          font-size: 12px;
+        }
+     .form-main input[type="submit"]{
+          height: 40px;
+          padding: 11px 16px;
+          font-size: 12px;
+          right: 25px;
+          z-index: 1;
+     }
+     .contact-tile{
+          font-size: 14px;
+          line-height: 16px;
+     }
+     .contact-item span{
+          font-size: 12px;
+          line-height: 14px;
+     }
+     /* RIGHT */
+     .right-title {
+          font-size: 18px;
+          line-height: 16px;
+     }
+     .right-heading {
+          font-size: 10px;
+          line-height: 12px;
+          margin-bottom: 16px;
+     }
+     .right-heading p{
+          font-size: 8px;
+     }
+     .btn-click {
+          padding: 6px 10px ;
+          font-size: 8px;
+     }
+
+
+
+}
+@media only screen and (max-width: 568px){
+  
+}
+@media only screen and (max-width: 480px){
+  
+}
+@media only screen and (max-width: 414px){
+     .slider-clock{
+          max-width: 330px;
+     }
+     .clock-days h2{
+          font-size: 100px;
+          line-height: 120px;
+          padding-right: 60px;
+     }
+     .clock-days span{
+          right: 5%;
+          font-size: 18px;
+     }
+     .slider-countdown{
+          padding: 35px 40px 0;
+     }
+     .slider-countdown span{
+          padding-right: 24px;
+     }
+
+  
+}
+@media only screen and (max-width: 384px){
+  
+}
+@media only screen and (max-width: 375px){
+     .slider-desc{
+          font-size: 10px;
+     }
+     .slider-text{
+          font-size: 9px;
+     }
+     .aboutus-item{
+          width: 30px;
+          height: 30px;
+     }
+     .aboutus-item span{
+          margin-top: 12px;
+          font-size: 10px;
+     }
+     .contact-tile{
+          font-size: 12px;
+     }
+     .contact-item span {
+          font-size: 10px;
+     }
+
+  
+}
+@media only screen and (max-width: 320px){
+     #app .menu{
+          width: 30px;
+     }
+     #app .menu-items{
+          width: 30px;
+          height: 30px;
+     }
+     .menu .icon-menu{
+          font-size: 10px
+     }
+     #app .menu-items:not(:last-child):after{
+          width: 10px;
+     }
+     /*  */
+     .container{
+
+     }
+     .container-left{
+          padding: 20px 24px 0;
+     }
+     .slider-logo{
+          width: 100px;
+          height: 34px;
+          margin-bottom: 28px;
+     }
+     .slider-logo img{
+          width: 100px;
+          height: 34px;
+     }
+     .slider-logo::before{
+          bottom: -15px;
+          width: 30px;
+     }
      .slider-heading{
           font-size: 12px;
           line-height: 14px;
@@ -615,25 +800,4 @@
           width: 6px;
           height: 6px;
      }
-}
-@media only screen and (max-width: 600px){
-  
-}
-@media only screen and (max-width: 568px){
-  
-}
-@media only screen and (max-width: 480px){
-  
-}
-@media only screen and (max-width: 414px){
-  
-}
-@media only screen and (max-width: 384px){
-  
-}
-@media only screen and (max-width: 375px){
-  
-}
-@media only screen and (max-width: 320px){
-  
 }
