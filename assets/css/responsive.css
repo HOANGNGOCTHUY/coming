@@ -292,12 +292,14 @@
      .container-main{
           text-align: left;
           padding: 95px 9px 0 88px;
+          z-index: 2;
 
      }
      .right-title{
           font-size: 30px;
           line-height: 133%;
           margin-bottom: 9px;
+          white-space: nowrap;
      }
      .right-heading{
           font-size: 16px;
