@@ -562,8 +562,18 @@
           right: 5%;
           font-size: 18px;
      }
+     .slider-clock{
+          max-width: 310px;
+     }
+     .clock-days h2{
+          padding-left: 0;
+          padding-right: 70px;
+     }
+     .clock-days span{
+          right: 9%;
+     }
      .slider-countdown{
-          padding: 35px 40px 0;
+          padding: 35px 30px 0;
      }
      .slider-countdown span{
           padding-right: 24px;
@@ -594,6 +604,18 @@
      }
      .contact-item span {
           font-size: 10px;
+     }
+     .slider-countdown h2{
+          padding-bottom: 50px;
+     }
+     .slider-countdown span{
+          padding-bottom: 30px;
+     }
+     .aboutus-text{
+          margin-top: 40px;
+     }
+     .slider-title{
+          margin-bottom: 20px;
      }
 
   
