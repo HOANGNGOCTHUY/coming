@@ -575,40 +575,55 @@
           font-size: 18px;
      }
      .slider-clock{
-          max-width: 310px;
+          max-width: 290px;
      }
      .clock-days h2{
-          padding-left: 12px;
+          padding-left: 10px;
           padding-right: 55px;
-          font-size: 100px;
-          line-height: 120px;
+          font-size: 90px;
+          line-height: 110px;
      }
      .clock-days span{
           right: 9%;
      }
      .slider-countdown{
-          padding: 35px 30px 0;
+          padding: 35px 20px 0;
      }
      .slider-countdown span{
           padding-right: 24px;
+          padding-bottom: 0;
      }
      .line::before{
           bottom: -20px;
      }
      /* about */
-
+     .slider-desc{
+          font-size: 10px;
+          line-height: 14px;
+     }
+     .slider-text{
+          font-size: 10px;
+          line-height: 14px;
+     }
      .aboutus-text{
           margin-top: 35px;
           margin-bottom: 15px;
      }
      .aboutus-item{
-          width: 35px;
-          height: 35px;
+          width: 30px;
+          height: 30px;
      }
      .aboutus-item span{
           font-size: 12px;
           line-height: 14px;
           margin-top: 15px;
+     }
+     /* Contact */
+     .contact-half{
+          margin-bottom: 25px;
+     }
+     .contact-address{
+          margin-bottom: 20px;
      }
 
   
@@ -649,6 +664,7 @@
      .slider-title{
           margin-bottom: 20px;
      }
+
 
   
 }
