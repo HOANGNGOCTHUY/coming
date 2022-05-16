@@ -731,7 +731,7 @@ input:focus{
      margin-bottom: 31px;
 }
 .contact-website{
-     margin-right: 55px;
+     margin-right: 80px;
 }
 .contact-tile{
      font-weight: 400;
@@ -739,7 +739,10 @@ input:focus{
      line-height: 16px;
      text-transform: uppercase;
 }
-
+.contact-item a{
+     text-decoration: none;
+     color: #fff;
+}
 .contact-item span{
      font-weight: 500;
      font-size: 14px;
@@ -768,6 +771,7 @@ input:focus{
      /* height: 20px; */
      margin-right: 31px;
      color: #FFFFFF;
+     text-decoration: none;
 }
 .icon-item:last-child{
      margin-right: 0;
